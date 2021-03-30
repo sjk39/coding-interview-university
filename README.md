@@ -2,7 +2,7 @@
 
 
 ## Table of Contents
-
+<details>
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
@@ -69,6 +69,7 @@
 - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
 - [Have questions for the interviewer](#have-questions-for-the-interviewer)
 - [Once You've Got The Job](#once-youve-got-the-job)
+</details>
 
 ---------------- Everything below this point is optional ----------------
 
