@@ -1,8 +1,7 @@
 # Coding Interview University
 
-
-## Table of Contents
 <details>
+## Table of Contents
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
