@@ -188,7 +188,8 @@ You'll see some C, C++, and Python learning included below, because I'm learning
 </details>
 	
 ## Book List
-
+<details>
+	
 This is a shorter list than what I used. This is abbreviated to save you time.
 
 ### Interview Prep
@@ -210,8 +211,11 @@ Choose one:
     - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
     - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
+</details>
+	
 ### Language Specific
 
+<details>
 **You need to choose a language for the interview (see above).**
 
 Here are my recommendations by language. I don't have resources for all languages. I welcome additions.
@@ -256,8 +260,12 @@ OR:
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
 - [x] [Open Data Structures in Python](https://opendatastructures.org/ods-python.pdf)
 
+</details>
+
 ## Before you Get Started
 
+<details>
+	
 This list grew over many months, and yes, it kind of got out of hand.
 
 Here are some mistakes I made so you'll have a better experience.
@@ -355,6 +363,8 @@ You don't need to memorize the guts of every algorithm.
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
+</details>
+	
 ## Prerequisite Knowledge
 
 - [ ] **Learn C**
