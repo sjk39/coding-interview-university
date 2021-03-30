@@ -162,7 +162,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
 
 ## Pick One Language for the Interview
-<detail>
+<details>
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
 - C++
@@ -185,7 +185,7 @@ Read more about choices:
 [See language resources here](programming-language-resources.md)
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
-</detail>
+</details>
 	
 ## Book List
 
