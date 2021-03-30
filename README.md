@@ -69,7 +69,6 @@
 - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
 - [Have questions for the interviewer](#have-questions-for-the-interviewer)
 - [Once You've Got The Job](#once-youve-got-the-job)
-</details>
 
 ---------------- Everything below this point is optional ----------------
 
@@ -118,6 +117,8 @@
 - [Video Series](#video-series)
 - [Computer Science Courses](#computer-science-courses)
 - [Papers](#papers)
+
+</details>
 
 ---
 
