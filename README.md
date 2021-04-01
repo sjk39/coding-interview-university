@@ -367,6 +367,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 	
 ## Prerequisite Knowledge
 
+<details>
+
 - [x] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying
     - [x] [The C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
@@ -382,8 +384,12 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
     - [x] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
+</details>
+
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
+<details>
+	
 - Nothing to implement
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review
 - If some lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge
@@ -404,6 +410,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
+
+</details>
 
 ## Data Structures
 
