@@ -416,6 +416,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 ## Data Structures
 
 - ### Arrays
+
+<details>
+	
     - Implement an automatically resizing vector.
     - [ ] Description:
         - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
@@ -448,6 +451,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
+</details>
+	
 - ### Linked Lists
     - [ ] Description:
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
